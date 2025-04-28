@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.font-link {
+  font-family: "Manrope";
+}
+a.active hr {
+  display: block;
+}
+a.active {
+  color: #000;
+  font-weight: bold;
+}
